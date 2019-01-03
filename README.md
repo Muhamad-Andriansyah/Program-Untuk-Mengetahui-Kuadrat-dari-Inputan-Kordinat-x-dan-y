@@ -1,0 +1,1 @@
+# Program-Untuk-Mengetahui-Kuadrat-dari-Inputan-Kordinat-x-dan-y
